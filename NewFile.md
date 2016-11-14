@@ -18,5 +18,6 @@ object Demo {
 
       // Move to a new location
       pt.move(10, 10);
+	  println("Hello, world!")
    }
 }
