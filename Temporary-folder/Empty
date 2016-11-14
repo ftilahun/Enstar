@@ -1,1 +1,5 @@
 ##empty
+
+This is my first time to use Github and it's a kind of interesting.
+Git is version control software and keeps a snapshot of everychange ever made.
+when you commit , you will take a snapshot of your repository at that point in time and give you a checkpoint to which you can restore. 
